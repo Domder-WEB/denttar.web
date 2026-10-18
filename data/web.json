@@ -1,0 +1,56 @@
+{
+  "nazev": "Denttar",
+  "podtitul": "Zubní ordinace v Třebíči",
+  "nadpis": "Profesionální péče o vaše zuby",
+  "uvod": "Individuální přístup ke klientovi, bezbolestné ošetření, léčba moderními přístroji a využití špičkových materiálů v příjemném prostředí.",
+  "logo": "",
+  "foto": "",
+  "telefon": "568 421 601",
+  "email": "katerina.tarasova@denttar.cz",
+  "adresa": "DENT TAR s.r.o.\nMUDr. Kateřina Tarasová\nSmila Osovského 20/35\nTřebíč 674 01",
+  "mapa_odkaz": "https://www.google.com/maps/search/?api=1&query=Smila+Osovsk%C3%A9ho+20%2F35+T%C5%99eb%C3%AD%C4%8D",
+  "doprava": "",
+  "objednani": "Objednat ke stomatologickému ošetření se můžete telefonicky na čísle 568 421 601 nebo osobně.\nAkutní bolestivé případy ošetřujeme, kromě čtvrtka, každý den od 7:00 do 9:30 mezi objednanými pacienty. Nutno počítat s delší čekací dobou.\nOd pondělí do čtvrtka je ve 12:00 – 12:30 konzultace (podle objednání).\nProsíme, respektujte polední přestávku. Děkujeme.",
+  "oznameni": "Nové pacienty z důvodu plné kapacity nebereme.",
+  "hodiny": [
+    { "den": "Pondělí", "od": "7:00", "do": "12:00", "od2": "13:00", "do2": "16:00" },
+    { "den": "Úterý", "od": "7:00", "do": "12:00", "od2": "13:00", "do2": "15:30" },
+    { "den": "Středa", "od": "7:00", "do": "12:00", "od2": "13:00", "do2": "15:00" },
+    { "den": "Čtvrtek", "od": "12:30", "do": "17:00", "od2": "", "do2": "" },
+    { "den": "Pátek", "od": "7:00", "do": "13:00", "od2": "", "do2": "" },
+    { "den": "Sobota", "od": "", "do": "", "od2": "", "do2": "" },
+    { "den": "Neděle", "od": "", "do": "", "od2": "", "do2": "" }
+  ],
+  "sluzby": [
+    { "nazev": "Bezbolestné ošetření", "popis": "Ošetření s využitím anestezie a dechového analgetika Entonox, což je účinné analgetikum pro senzitivní pacienty k potlačení strachu při zákroku, zároveň zajišťuje úlevu od krátkodobé bolesti bez vedlejších účinků." },
+    { "nazev": "Prevence zubního kazu", "popis": "Hygienické instruktáže, fluoridace zubů, pečetění fisur a prodej vybraných hygienických pomůcek přímo v naší ordinaci." },
+    { "nazev": "Záchovná stomatologie", "popis": "Ošetření s využitím špičkových moderních výplňových materiálů." },
+    { "nazev": "Protetické ošetření", "popis": "Od samostatných fixních korunek přes fixní můstky až po snímací náhrady chrupu." },
+    { "nazev": "Piezochirurgie", "popis": "Stomatologické ošetření pomocí nejmodernější technologie." },
+    { "nazev": "Ošetření dětí", "popis": "Zubní ošetření dětí jakéhokoliv věku." },
+    { "nazev": "Bělení zubů", "popis": "Domácí nebo ordinační bělení." },
+    { "nazev": "Air flow", "popis": "Pískování zubů: odstranění zubních pigmentů jemným proudem vody, vzduchu a speciálního prášku." },
+    { "nazev": "Ozdobení zubů", "popis": "Ozdobení zubů speciálními kamínky." }
+  ],
+  "navsteva": [],
+  "cenik": [],
+  "tym": [
+    { "jmeno": "MUDr. Kateřina Tarasová", "role": "Praktická zubní lékařka", "foto": "" }
+  ],
+  "galerie": [],
+  "pojistovny": [
+    "VZP (111) – Všeobecná zdravotní pojišťovna",
+    "VoZP (201) – Vojenská zdravotní pojišťovna",
+    "ČPZP (205) – Česká průmyslová zdravotní pojišťovna",
+    "OZP (207) – Oborová zdravotní pojišťovna",
+    "ZPMV (221) – Zdravotní pojišťovna ministerstva vnitra"
+  ],
+  "faq": [
+    { "otazka": "Přijímáte nové pacienty?", "odpoved": "Z důvodu plné kapacity nové pacienty nebereme." },
+    { "otazka": "Jak se objednat?", "odpoved": "Telefonicky na čísle 568 421 601 nebo osobně v ordinaci." },
+    { "otazka": "Co dělat při akutní bolesti?", "odpoved": "Akutní bolestivé případy ošetřujeme, kromě čtvrtka, každý den od 7:00 do 9:30 mezi objednanými pacienty. Nutno počítat s delší čekací dobou." },
+    { "otazka": "Můžu přijít v poledne?", "odpoved": "Ordinace má polední přestávku, prosíme o její respektování. Od pondělí do čtvrtka je ve 12:00 – 12:30 konzultace podle objednání." }
+  ],
+  "provozovatel": "DENT TAR s.r.o., MUDr. Kateřina Tarasová, Smila Osovského 20/35, Třebíč 674 01",
+  "ico": "IČO 29363322, DIČ CZ 29363322. Spis. značka C 75402, právnická osoba zapsaná v obchodním rejstříku vedeném u Krajského soudu v Brně."
+}
